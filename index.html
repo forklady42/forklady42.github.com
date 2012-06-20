@@ -1,0 +1,22 @@
+---
+layout: layout
+title: Home
+---
+
+<div class="two-thirds column">
+
+{% for post in site.posts limit:4 %}
+
+<h3>
+
+<a href="{{ post.url }}">{{ post.title }}</a>
+
+</h3>
+<span>{{ post.date | date: '%B' }} {{ post.date | date: '%e' }}, {{ post.date | date: '%Y' }}</span>
+
+
+{% endfor %}
+
+
+
+  </div>

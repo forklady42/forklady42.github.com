@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Testing Jekyll out
+title: Out for a spin
 ---
 
 {{ page.title }}

@@ -52,7 +52,8 @@
 /* #Basic Styles
 ================================================== */
 	body {
-		background: #fff;
+		/*background: #fff;*/
+		background-image: url('../images/betsy-header.png');
 		/*font: 14px/21px; "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;*/
 		font-family: 'Droid Sans', "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 		color: #444;

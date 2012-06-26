@@ -35,7 +35,7 @@
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block; }
 	body {
-		line-height: 1; }
+		line-height: 1.2; }
 	ol, ul {
 		list-style: none; }
 	blockquote, q {
@@ -54,6 +54,8 @@
 	body {
 		/*background: #fff;*/
 		background-image: url('../images/betsy-header.png');
+		background-repeat:no-repeat;
+		/*background-position:center;*/
 		/*font: 14px/21px; "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;*/
 		font-family: 'Droid Sans', "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 		color: #444;
@@ -156,7 +158,10 @@ div#menu li
 
 	img.scale-with-grid {
 		max-width: 100%;
-		height: auto; }
+		height: auto;
+		display: block;
+        margin-left: auto;
+		margin-right: auto;		}
 
 
 /* #Buttons

@@ -68,6 +68,25 @@
 	background-color: #999999;
 	padding: 30px;
 	margin-top: 40px;
+	/* ROUNDED CORNERS */
+	-moz-border-radius: 18px;
+	-webkit-border-radius: 18px;
+	border-radius: 18px;
+	/* DROP SHADOW */
+	-moz-box-shadow: inset 0 0 8px rgba(0,0,0, 0.75);
+	-webkit-box-shadow: inset 0 0 8px rgba(0,0,0, 0.75);
+	box-shadow: inset 0 0 8px rgba(0,0,0,0.75);
+}
+ div#resume_info
+{
+	background-color: #cccccc;
+	padding: 30px;
+	margin-top: 40px;
+	/* ROUNDED CORNERS */
+	-moz-border-radius: 18px;
+	-webkit-border-radius: 18px;
+	border-radius: 18px;
+	/* DROP SHADOW */
 	-moz-box-shadow: inset 0 0 8px rgba(0,0,0, 0.75);
 	-webkit-box-shadow: inset 0 0 8px rgba(0,0,0, 0.75);
 	box-shadow: inset 0 0 8px rgba(0,0,0,0.75);

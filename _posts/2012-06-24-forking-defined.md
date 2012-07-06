@@ -36,7 +36,7 @@ I like to think that the second definition applies to me as well. Of course,
 forks in paths brings Robert Frost's well-known poem to my mind. I try to chart my own
 course or follow untrodden paths.
 As a bit counterphobic, I push myself to do things I'm frightened of. Whether it is
-hiking above 15,000 ft or moving to a new area, my choices occasionally surprise my
+hiking above 15,000 ft or moving to across the country, my choices occasionally surprise my
 friends and family.
 
 The last definition relates to software development. I first began programming when
@@ -48,3 +48,6 @@ take computer science classes throughout college, even arguing my way into Algor
 when I didn't have one of the prerequisites. In the past year, I've played around with
 new languages and small projects. I'm planning to become more involved in open source 
 projects and look forward to working on various forks.
+
+From cooking delicious food to venturing down unknown paths to coding, forks 
+are a cross-representation of me.

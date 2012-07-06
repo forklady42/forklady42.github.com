@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Life as a twenty-something is like studying abroad
+comments: true
 excerpt: Since graduating college a year ago, I've considered starting a blog. I kept a one while <a href="http://conservationofbears.blogspot.com/"> studying abroad in Ecuador</a>. That blog was a great way to reflect on my trip and share my adventures with friends. Every so often, I enjoy returning to that blog to review my thought processes and the highlights from the term.
 ---
 

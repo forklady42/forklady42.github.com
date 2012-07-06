@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Forking Defined
+comments: true
 excerpt: Forks are my quirk. As explained under the forks tab of this website, my obsession with forks began with a lunchtime photo at a digital photography  camp. I believe that forks represent me not only as objects in my collection but through the various definitions.
 ---
 

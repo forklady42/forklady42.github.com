@@ -11,4 +11,4 @@ One summer during high school, I attended a digital photography camp. One of our
 Soon after the camp, one of my friends visited Europe and asked what she should bring back for me. Jokingly, I suggested pictures of forks from each country she visited. Indeed, she returned with a pictures of both French and German forks. Then, my cousins began sending me fork photos. Eventually, people began to
 giving me actual forks from their travels or random forks they found particularly intriguing. In fact the first fork I was given is an extendable fork that stretches out to two feet long. My friend named the fork Galileo, since it's telescopic.
 
-Today, my collection includes a set of Japanese forks, <a href="http://fredandfriends.com/products/view/airfork-one-kids-fork">Airfork One</a>, a WWI mess kit fork, and a coat hook made from a fork.
+Today, my collection includes a set of Japanese forks, <a href="http://fredandfriends.com/products/view/airfork-one-kids-fork">Airfork One</a>, my great-grandfather's WWI mess kit fork, and a coat hook made from a fork.

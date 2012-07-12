@@ -32,6 +32,26 @@ img.scale-with-grid {
 
 /* #Page Styles
 ================================================== */
+	a, a:visited { color: #333; text-decoration: underline; outline: 0; }
+	a:hover, a:focus { color: #000; }
+	p a, p a:visited { line-height: inherit; }
+
+a.menu
+{
+	background-color: #999999;
+	padding: 10px;
+	margin: 0;
+	font-size: 18px;
+	text-decoration: none
+}
+a.activeSelection
+{
+	background-color: #cccccc;
+	padding: 10px;
+	margin: 0;
+	font-size: 18px;
+	text-decoration: none
+}
 
 /* #Media Queries
 ================================================== */

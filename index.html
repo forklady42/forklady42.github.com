@@ -1,15 +1,39 @@
 ---
 layout: layout1
-title: Home
+title: Blog
 ---
 
-<!--h3>Data, numbers, woohoo!</h3-->
+{% for post in site.posts limit:4 %}
 
-<br>
-<br>
-<img src="/images/vizualizeme.png">
 
-<br>
-<p> For more details, view this infographic here: 
-<a href='http://vizualize.me/cannon.bea?r=cannon.bea' title='Betsy Cannon's infographic resume on vizualize.me' target='_blank'><img src='http://vizualize.me/media/img/socialicons/vizualizeme.png'/></a>
- </p>
+<h3>
+
+<a href="{{ post.url }}">{{ post.title }}</a>
+
+</h3>
+<span>{{ post.date | date: '%B' }} {{ post.date | date: '%e' }}, {{ post.date | date: '%Y' }}</span>
+
+<p>
+    {{ post.excerpt | markdownify }}
+    <span class="more"><a href="{{ post.url }}">More...</a></span>
+</p>
+
+{% endfor %}
+
+<ul>
+  {% for post in site.posts %}
+  {% if forloop.index > 4 %}
+  <li>
+  Older Posts:
+    <a href="{{ post.url }}" title="{{ post.title }}">
+      <span class="date">
+        <span class="day">{{ post.date | date: '%d' }}</span>
+        <span class="month"><abbr>{{ post.date | date: '%b' }}</abbr></span>
+        <span class="year">{{ post.date | date: '%Y' }}</span>
+      </span>
+      <span class="title">{{ post.title }}</span>
+    </a>
+  </li>
+  {% endif %}
+  {% endfor %}
+</ul>

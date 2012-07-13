@@ -1,2 +1,5 @@
 markdown: rdiscount
-ga_id: UA-33343376-1
+analytics :
+  provider : google
+  google : 
+      tracking_id : 'UA-33343376-1'

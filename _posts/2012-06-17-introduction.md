@@ -20,6 +20,8 @@ I've laughed, fumed, and compromised while working to build a community with
 housemates from different backgrounds. I've adjusted to living in a city and taken 
 advantage of free days at museums.
 
+<img class="scale-with-grid" src="/images/paramo.jpg" width=500px>
+
 Also, like studying abroad, I'm still learning. I've enjoyed public lectures at UW
 and talks at Town Hall. My enjoyment of algorithms in college and discussing economics
 with friends led me to register for classes on <a href="http://www.coursera.org">Coursera</a>.

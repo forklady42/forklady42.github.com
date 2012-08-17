@@ -19,8 +19,21 @@ how the stereotype threat can cause women to leave science</a>.
 Simply being around male coworkers can remind women that 
 they're supposedly worse at math and then live into that 
 stereotype by underperforming. Stereotypes reinforce themselves 
-making it even harder for women to succeed.
+making it even harder for women to succeed. About a year ago,
+I heard Joshua Aronson speak about his reasearch on the stereotype
+threat. One of my favorite of his studies is of an upper level
+math class at the University of Texas. The class was prodominately
+male with a handful of women. In one section of the course, the professor
+introduced the normally saying that he had been giving the test 
+for 25 years and that the test accurately predicted success in math.
+In the other section, he added that in the 25 years he had never
+seen a gender gap on the results. In the first section, the women 
+performed on par with the men, but in the second section with the 
+stereotype threat removed, the women trounced the males. The stereotype
+threat had kept them back so that appeared simply good rather than outstanding.
 
+If only the most gifted women make it to upper level college math courses,
+many great minds and passionate thinkers are left along the way. 
 In her talk at Carleton, Sally Ride pointed out that in 
 3rd and 4th grade, just as many girls enjoy science as boys do.
 Yet in middle school, girls turn away. I was lucky to have

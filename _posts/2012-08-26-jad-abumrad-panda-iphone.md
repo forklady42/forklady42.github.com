@@ -3,7 +3,7 @@ layout: post
 title: Jad Abumrad has a panda iPhone
 published: true
 comments: true
-excerpt: Radiolab is easily my favorite podcast. I love listening to Robert and Jad muse about the universe and human nature and learning about various facets of science and philosophy. Thus, I was thrilled last night to attend Radiolab Live: In the Dark.
+excerpt: "Radiolab is easily my favorite podcast. I love listening to Robert and Jad muse about the universe and human nature and learning about various facets of science and philosophy. Thus, I was thrilled last night to attend Radiolab Live: In the Dark."
 ---
 
 Radiolab is easily my favorite podcast. I love listening to Robert and Jad muse about the universe and human nature and learning about various facets of science and philosophy. Thus, I was thrilled last night to attend Radiolab Live: In the Dark.

@@ -3,9 +3,7 @@ layout: post
 title: My Computer Programming Grandma
 published: true
 comments: true
-excerpt: "So you're going to do computer programming. Hmm. I guess I programmed computers when I worked at IBM."
-    
-    Yes, Nana, you did. 
+excerpt: "So you're going to do computer programming. Hmm. I guess I programmed computers when I worked at IBM." 
 ---
 
 "So you're going to do computer programming. Hmm. I guess 

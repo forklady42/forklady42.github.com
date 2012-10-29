@@ -1,9 +1,9 @@
-d---
+---
 layout: post
 title: My Year in Library Returns
 published: false
-comments: true
-excerpt: 
+comments: false
+excerpt: seattle library
 ---
 
 On September 23, 2011, I started recording the items that I 

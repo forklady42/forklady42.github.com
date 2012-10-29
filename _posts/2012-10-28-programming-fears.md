@@ -9,7 +9,7 @@ excerpt: The first four weeks of Hacker School are over. As with many experience
 The first four weeks of Hacker School are over. As with many experiences, 
 part of me wonders where the time has gone, while the rest feels 
 like I've been here for months. Already, I've become comfortable with
-Erlang, learned about socket programming (including building <a href="https://github.com/raysohn/bake"> a simple game server and auction game</a.), and gained a much better understanding 
+Erlang, learned about socket programming (including building <a href="https://github.com/raysohn/bake"> a simple game server and auction game</a>), and gained a much better understanding 
 of parsing by working on a JavaScript interpreter.
 
 One awesome aspect of Hacker School is learning from the incredible 

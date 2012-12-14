@@ -74,7 +74,7 @@ function pizzaParty() {
 pizzaParty();
 {% endhighlight %}
 
-
+</br>
 Originally, Kenya and I tried to implement scope with a dictionary keeping track of 
 embedded functions and variables. Thankfully, Alan, a Hacker School facilitator, 
 pointed us along the better track--explicitly passing around a list representing the 

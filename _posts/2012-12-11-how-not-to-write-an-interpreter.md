@@ -56,23 +56,26 @@ called. However, functions do not have access to variables defined or modified w
 a functionIf a variable name is reused, it will refer to the definition in the inner most
 scope. This is easiest to understand in an example. The following code should log "This pizza is all about the pepperoni....But put ham on 3 slices".
 
-{% highlight javascript %}
-var topping = "anchovy";
+<pre><code>
+    {% highlight javascript %}
+    var topping = "anchovy";
 
-function pizzaParty() {
-    var numSlices = 3;
-    var topping = "pepperoni";
-    
-    function innerFunction() {
-    
-        var topping = "ham";
-        console.log("....But put " + topping + " on " + numSlices + " slices");
-    };
-    console.log("This pizza is all about the " + topping);
-    innerFunction();
-}
-pizzaParty();
-{% endhighlight %}
+    function pizzaParty() {
+        var numSlices = 3;
+        var topping = "pepperoni";
+        
+        function innerFunction() {
+        
+            var topping = "ham";
+            console.log("....But put " + topping + " on " + numSlices + " slices");
+        };
+        console.log("This pizza is all about the " + topping);
+        innerFunction();
+    }
+    pizzaParty();
+    {% endhighlight %}
+    </br>
+</code></pre>
 
 </br>
 Originally, Kenya and I tried to implement scope with a dictionary keeping track of 

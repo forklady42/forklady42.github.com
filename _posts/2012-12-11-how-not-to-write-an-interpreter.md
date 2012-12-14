@@ -56,7 +56,7 @@ called. However, functions do not have access to variables defined or modified w
 a functionIf a variable name is reused, it will refer to the definition in the inner most
 scope. This is easiest to understand in an example. The following code should log "This pizza is all about the pepperoni....But put ham on 3 slices".
 
-<pre><code>
+
     {% highlight javascript %}
     var topping = "anchovy";
 
@@ -74,8 +74,7 @@ scope. This is easiest to understand in an example. The following code should lo
     }
     pizzaParty();
     {% endhighlight %}
-    </br>
-</code></pre>
+    
 
 </br>
 Originally, Kenya and I tried to implement scope with a dictionary keeping track of 

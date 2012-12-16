@@ -4,51 +4,50 @@ title: How not to write an interpreter
 published: true
 comments: true
 excerpt: 
-    When I began Hacker School, my primary goal was to learn more about languages.
+    When I began Hacker School, my primary objective was to learn more about languages.
     In college, I focused on mathematical algorithms and physics computations
     but never delved into languages themselves. I wanted to better understand 
     programming languages, how they're constructed, and how to choose the best 
     one for the job.
 ---
 
-When I began Hacker School, my primary goal was to learn more about languages.
+When I began Hacker School, my primary objective was to learn more about languages.
 In college, I focused on mathematical algorithms and physics computations
 but never delved into languages themselves. In order to better understand 
 programming languages, how they're constructed, and how to choose the best 
 one for the job, I had two goals:
     
 <blockquote>
-1) Learn a functional language. Java was the first language I learned,
-and I've mostly used Python since then. A functional language would 
-provide a new paradigm of how to approach programming.<br>
+1) Learn a functional language. Java was the first language I learned
+and most of my experience is with Python. A functional language would 
+provide a new paradigm for programming.<br>
 
-2) Begin to understand compilers and interpreters by building one myself
-in order to understand the internals of languages.
+2) Begin to understand compilers and interpreters by building one myself.
 </blockquote>
 
 The second of these goals led to me pairing with fellow
 Hacker Schooler Kenya on her quest to write an interpreter for Javascript in Python.
 This project was particularly ambitious given that neither of us had written an
-interpreter before, I didn't know Javascript, and Kenya was only beginning to learn
-Python.
+interpreter before, I didn't know Javascript, and Kenya had begun learning Python only
+a week before.
 
 Of course, Scheme is the traditional choice for writing your first (and second and
 third) interpreter. As a LISP, Scheme expressions already follow the outline of
-an abstract syntax tree, which greatly simplifies parsing. But since Kenya and I 
+an abstract syntax tree, which greatly simplifies parsing. But given that Kenya and I 
 chose Javascript, our first challenge was lexical analysis.
 
-We began by simply researching parsers. We learned about recursive descent, top down 
-operator precedence, and grammars. 
+We began by simply researching parsers and finding a place to begin. We learned about 
+recursive descent, <a href=http://javascript.crockford.com/tdop/tdop.html>top down operator precedence</a>, and grammars. 
 We asked other students for advice and their favorite parsing techniques.
-Jamie, another Hacker Schooler, who has written several parsers, immediate reaction 
-was that parsing Javascript is hard. It's syntax has quirks that require a number
+Jamie, another Hacker Schooler, who has written several parsers, told us that 
+parsing Javascript is hard. It's syntax has quirks that require a number
 of exceptions in order to parse. There aren't simple patterns to recognize.
 
-Eventually, Kenya and I became comfortable with parsing and wanted to focus on 
+After working through the parsing for arimetic, variable assignment, and several keywords,
+Kenya and I decided that we were comfortable with parsing and learning less. Instead, we wanted to focus our time on 
 evaluation. Since our parser did not handle all of the features we wanted, we decided
-to create a new project that would take in "Lispy JS", an abstract syntax tree of 
-Javascript. At this point, Kenya and I were essentially writing our own language inspired
-by Javascript.
+to create a new project that would evaluate "Lispy JS", an abstract syntax tree of 
+Javascript.
 
 For evaluation, we were particularly interested in scoping and closures. In Javascript,
 a function has access to any variables defined within the function from which it is

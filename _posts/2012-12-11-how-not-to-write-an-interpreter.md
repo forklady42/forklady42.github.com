@@ -57,6 +57,7 @@ scope. This is easiest to understand in an example. The following code should lo
 
 
     {% highlight javascript %}
+    </br>
     var topping = "anchovy";
 
     function pizzaParty() {

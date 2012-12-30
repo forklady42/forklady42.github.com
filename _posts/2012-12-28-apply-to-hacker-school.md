@@ -51,5 +51,5 @@ I'll miss the conversations comparing special relativity to lamport clocks,
 cheerful teasing about emacs vs. vim, and friends showing off their projects.
 (And of course, I'll especially miss the first table of Room 620.)
 
-Go email your partner, sister, friend, who would benefit from Hacker School.
+Go email your partner, sister, or friend who would benefit from Hacker School.
 Tell her to apply. Don't let her pass this opportunity by.
